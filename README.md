@@ -1,12 +1,6 @@
 # This is something of git in CnetOS!
 ## this is new branch dev
-<<<<<<< HEAD
-## delete
+## i love dev
+## This is issue
 
-## This is master and new branch one 
-=======
-## delete dev
-
-
-## This is new branch one
->>>>>>> one
+## This is dev for stash
