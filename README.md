@@ -1,6 +1,9 @@
-# This is something of git in CnetOS!
-## this is new branch dev
-## i love dev
-## This is issue
+# dbview
 
-## This is dev for stash
+
+```shell
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
